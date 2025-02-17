@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-blue{
+  background-color: #09183a;
+}
+
+.text-color-white{
+  color: #E9E9EB;
+}
+
+.header-text{
+  color: #EF4B4C;
+}
+
+.border-red{
+  color: #EF4B4C;
+}
+
+.landing-box-background{
+  background-color: #09183a;
+  opacity: 0.95;
+}
